@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[589],{5628:s=>{s.exports=JSON.parse('{"allTagsPath":"/Appointment-Assistant/blog/tags","slug":"/Appointment-Assistant/blog/tags/hello","name":"hello","count":2,"permalink":"/Appointment-Assistant/blog/tags/hello"}')}}]);
